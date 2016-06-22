@@ -1,0 +1,6 @@
+{
+    "require": {
+        "mikehaertl/phpwkhtmltopdf": "^2.2",
+        "raveren/kint": "^1.0"
+    }
+}

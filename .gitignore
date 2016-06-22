@@ -1,0 +1,16 @@
+# Pasta temporária
+temp/*
+!temp/.gitkeep
+
+# Sublime Text
+*.sublime-workspace
+.phpintel
+
+# System files
+*.DS_Store
+desktop.ini
+
+# Gerenciadores de dependências
+vendor
+node_modules
+bower_components
